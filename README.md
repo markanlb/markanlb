@@ -1,9 +1,9 @@
 ### Hi there 👋
 - I am little French guy 🇫🇷 who likes to code in his spare time.
-- I'm doing powershell code 🖥
+- I'm doing Powershell code 🖥
 - I also like to code for Games 🎮 Ex: Space Engineers / Arma...
 
-- 👨‍🏭 I am currently working on dialogue between "Personal PC" ↔ "Server" in powershell
+- 👨‍🏭 I am currently working on dialogue between "Personal PC" <--> "Server" in Powershell
 <!--
 **markanlb/markanlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
